@@ -1,0 +1,20 @@
+# Python 3.11.13
+pip
+
+# extract text from pdf
+pymupdf
+PyPDF2
+
+# tts models
+gtts
+TTS
+kokoro
+
+# record your voice
+sounddevice 
+soundfile
+
+
+
+
+
