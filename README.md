@@ -106,6 +106,13 @@ TTS_LANGUAGE = "en"
 - Audio output is in WAV format
 - Processing time depends on text length and your system hardware
 
+## Contributing
+
+Contributions and improvements are welcome!  
+
+All code in this project is free to copy, modify, and reuse in your own work.
+
+
 ## Todo List
 
 - [x] Try and compare different TTS models
