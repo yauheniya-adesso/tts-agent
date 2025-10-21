@@ -119,7 +119,7 @@ All code in this project is free to copy, modify, and reuse in your own work.
 
 - [x] Try and compare different TTS models
 - [x] Select TTS modes with support for offline, English, and German
-- [ ] Create short voice samples for each available voice
+- [x] Create short voice samples for some available voices
 - [ ] Voice cloning functionality (train custom voices)
 - [ ] Intelligent PDF processing to remove journal artifacts (page numbers, headers, footers)
 - [ ] Intelligent PDF processing to see the page instead of reading it (for complex pdfs)
