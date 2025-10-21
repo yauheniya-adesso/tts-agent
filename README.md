@@ -45,6 +45,8 @@ tts-agent/
 │   ├── __init__.py                     # Package initialization
 │   ├── kokoro_tts_offline.py           # Kokoro TTS implementation
 │   └── coqui_tts_offline.py            # Coqui TTS implementation
+├── scripts/                         # Model and voice comparison
+├── voice_samples/                   # Compare voice samples
 ├── pdf/                             # Input PDF files
 │   └── 2005_Buchanan.pdf               # Example PDF
 ├── audio/                           # Output audio files (auto-created)
