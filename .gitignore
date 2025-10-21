@@ -4,7 +4,6 @@ audio_output/
 audio_output_offline/
 pdf_pages/
 temp/
-voice_samples/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux,visualstudiocode
